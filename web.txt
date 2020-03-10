@@ -1,0 +1,7 @@
+html 
+! plus enter
+ctrl plus /....for comments
+loren epsum .....for placeholder
+ul>li*3.....creates 3 unordered lists 
+windows + fullstop .....for putting emojis
+cellspacing ......table's attribute
