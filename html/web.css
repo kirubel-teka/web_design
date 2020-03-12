@@ -1,0 +1,59 @@
+body{
+    background-color: darkgray;    
+}
+
+
+h3{
+    padding: 60px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    
+}
+img{
+    margin-left: 70px;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+}
+p{
+    margin-left: 70px;
+    display: inline-block;
+    width: 400px;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: bold;
+    color: teal;
+}
+#last-text{
+    margin-left: 700px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

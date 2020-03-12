@@ -1,0 +1,22 @@
+/* Element selector [Tag] */
+body{
+    background-color:gray;
+
+}
+header{
+    background-color: rgba(red,red, blue, alpha);
+}
+section{
+    font-family: sans-serif;
+}
+article{
+    font-size: 15px;
+}
+
+.title{
+    font-size: 23px;
+    font-weight: bold;
+}
+.date{
+    font-style: italics;
+}
