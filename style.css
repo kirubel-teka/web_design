@@ -1,15 +1,28 @@
 /* Element selector [Tag] */
 body{
+    
+ /*   border: solid 10px lightgray;*/
     background-color:gray;
+    margin: 10px;
 
 }
 header{
-    background-color: rgba(red,red, blue, alpha);
+    background-color: rgba(red,red,red, red);
+ /*   position: absolute;
+    top: 50px;
+    right: 10px;
+*/
+    position: fixed;
 }
 section{
+  /*  border: solid 1px;*/
+    padding: 5PX 30PX;
     font-family: sans-serif;
+    margin-top: 100px ;
 }
 article{
+    line-height: 25px;
+    text-align: justify;
     font-size: 15px;
 }
 
@@ -18,5 +31,32 @@ article{
     font-weight: bold;
 }
 .date{
+    text-transform: uppercase;
     font-style: italics;
+    font-size: 15px;
 }
+/* Changing the block / inline */
+nav > ul > li{
+    display: inline-block;
+    padding: 10px 3px;
+    font-size: 20px;
+
+}
+nav > ul > li > a{
+    text-decoration: none;
+}
+nav > ul > li:hover {
+    background-color: blue;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    float: left;
+}
+
+#clear{
+    clear: left;    
+}
+
